@@ -2,4 +2,4 @@
 
 ##### Responsive and Interactive
 
-##### Update in future by adding new geatures
+##### Update in future by adding new features
